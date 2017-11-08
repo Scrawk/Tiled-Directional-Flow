@@ -8,6 +8,6 @@ Creating the flow map could be a bit of a hassle. It would be best done using a 
 
 At the moment the shader is just applied to a flat plane and viewed from above so the effect can be seen best. Moving this to a terrain shader would be relatively trivial if that is what you need.
 
-See [home page](https://www.digital-dust.com/single-post/2017/03/24/Tiled-directional-flow-in-unity) for more information.
+See [home page](https://www.digital-dust.com/single-post/2017/03/24/Tiled-directional-flow-in-unity) for more information and unity package download.
 
 ![Tiled Directional Flow](https://static.wixstatic.com/media/1e04d5_aed597394e9741ba8f5e816f9f8fd3cd~mv2.jpg/v1/fill/w_550,h_509,al_c,q_80,usm_0.66_1.00_0.01/1e04d5_aed597394e9741ba8f5e816f9f8fd3cd~mv2.jpg)
