@@ -9,3 +9,11 @@ Creating the flow map could be a bit of a hassle. It would be best done using a 
 At the moment the shader is just applied to a flat plane and viewed from above so the effect can be seen best. Moving this to a terrain shader would be relatively trivial if that is what you need.
 
 ![Tiled Directional Flow](./Media/TiledDirectionalFlow.jfif)
+
+List of water projects.
+
+[Ceto](https://github.com/Scrawk/Ceto)\
+[Phillips ocean.](https://github.com/Scrawk/Phillips-Ocean)\
+[Brunetons Ocean.](https://github.com/Scrawk/Brunetons-Ocean)\
+[Tiled-directional flow.](https://github.com/Scrawk/Tiled-Directional-Flow)\
+[PBD Fluid sim.](https://github.com/Scrawk/PBD-Fluid-in-Unity)
